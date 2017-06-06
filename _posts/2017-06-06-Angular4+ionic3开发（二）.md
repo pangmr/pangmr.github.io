@@ -60,9 +60,9 @@ ionic先整理这些，以后遇到了再补充
 
 # Angular
 1. http请求
-    > 开发的时候，找了半天也没找ng4的http服务，最后才查到，原来用的是RxJS。
-    > RxJS: Rx是一个编程模型，目标是提供一致的编程接口，帮助开发者更方便的处理异步数据流
-    > 传送门[ReactiveX]: http://reactivex.io/
+    开发的时候，找了半天也没找ng4的http服务，最后才查到，原来用的是RxJS。<br/>
+    RxJS: Rx是一个编程模型，目标是提供一致的编程接口，帮助开发者更方便的处理异步数据流<br/>
+    传送门[ReactiveX]: http://reactivex.io/
 
     ```
     import { Injectable } from '@angular/core';
