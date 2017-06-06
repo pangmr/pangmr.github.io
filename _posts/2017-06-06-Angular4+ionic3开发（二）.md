@@ -54,7 +54,7 @@ tags:
         ```
 然后就可以在Popover页面使用`this.callback()`，刷新父页面的数据了。
 
-ionic的疑难点先整理这些，以后遇到了再补充
+ionic先整理这些，以后遇到了再补充
 
 # Angular
 1. http请求
